@@ -1,0 +1,23 @@
+.c-diferenciais {
+  margin-top: 5rem;
+  background-color: var(--color-blue-dark);
+  color: var(--color-white);
+  padding: 4rem 2rem;
+}
+
+.c-diferenciais .c-title-dif {
+  text-align: center;
+  margin-bottom: 4rem;
+}
+
+.c-diferenciais .c-title-dif .title {
+  font-size: 2.4rem;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+
+.c-dropdowns {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}

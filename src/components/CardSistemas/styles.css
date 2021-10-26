@@ -1,0 +1,17 @@
+.c-sistemas .card {
+  margin-top: 4rem;
+}
+
+.c-sistemas .card .img {
+  margin-bottom: 2rem;
+}
+
+.c-sistemas .card .title {
+  font-size: 2.4rem;
+  font-weight: 500;
+}
+
+.c-sistemas .card .text {
+  margin: 1rem 0 2rem 0;
+  line-height: 2.3rem;
+}

@@ -1,0 +1,20 @@
+.c-bigcard {
+  margin-top: 3rem;
+  padding: 7rem 2rem;
+  background-color: var(--color-blue-dark);
+  color: var(--color-white);
+  text-align: center;
+}
+
+.c-bigcard .c-texts .title {
+  font: 700 2.2rem 'Russo One';
+  line-height: 2.4rem;
+  text-transform: uppercase;
+  margin-top: 2rem;
+}
+
+.c-bigcard .c-texts .text {
+  margin: 2rem 0;
+  line-height: 1.6rem;
+}
+

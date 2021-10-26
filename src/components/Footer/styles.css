@@ -1,0 +1,18 @@
+.c-footer {
+  margin-top: 5rem;
+  padding: 2rem;
+  background-color: var(--color-blue-dark);
+  color: var(--color-white);
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.c-footer .c-imgs {
+  display: flex;
+  justify-content: space-between;
+}
+
+.c-footer .copyright {
+  line-height: 2.3rem;
+}

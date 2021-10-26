@@ -1,0 +1,24 @@
+.c-card-planos {
+  background-color: var(--color-blue-dark);
+  color: var(--color-white);
+  border-radius: 5px;
+}
+
+.c-card-planos .c-card-header {
+  height: 19rem;
+  background-color: var(--color-blue);
+  border-radius: 5px 5px 0 0;
+}
+
+.c-card-planos .c-card-body {
+  padding: 1.5rem;
+}
+
+.c-card-body .title {
+  font-size: 2.4rem;
+  font-weight: 500;
+}
+
+.c-card-body .price {
+  margin-bottom: 2rem;
+}

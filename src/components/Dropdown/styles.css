@@ -1,0 +1,30 @@
+.c-dropdown {
+  border: 1px solid var(--color-white);
+  border-radius: 5px;
+  padding: 2rem;
+  transition: all 0.4s;
+}
+
+.c-dropdown .c-dropdown-header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.c-dropdown .c-dropdown-header .c-dropdown-title {
+  font-size: 1.8rem;
+}
+
+.c-dropdown .c-dropdown-header .c-dropdown-img.active {
+  transform: rotate(180deg);
+}
+
+.c-dropdown-body {
+  margin-top: 1rem;
+  font-size: 1.4rem;
+  line-height: 2rem;
+  display: none;
+}
+
+.c-dropdown-body.active {
+  display: block;
+}

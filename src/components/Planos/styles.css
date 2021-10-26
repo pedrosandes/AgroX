@@ -1,0 +1,9 @@
+.c-planos {
+  padding: 0 2rem;
+}
+
+.c-planos .planos {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
