@@ -6,7 +6,7 @@ import "./styles.css"
 
 const Planos = () => {
   return (
-   <section className="c-planos">
+   <section id="planos"  className="c-planos">
      <div className="c-title">
       <span className="title">Planos</span>
      </div>
