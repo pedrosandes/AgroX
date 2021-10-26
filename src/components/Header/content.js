@@ -16,7 +16,7 @@ const Links = [
   },
   {
     id: 4,
-    text: "Plano",
+    text: "Planos",
     ref: "planos",
   },
 ];
